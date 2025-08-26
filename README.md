@@ -40,12 +40,10 @@ Ferramenta em Python para classificar comprovantes de pagamento com base no CNPJ
 
 ## 📫 Como me encontrar  
 📧 E-mail: guilhermevisconi@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario-aqui)  
+🔗 - <a href="https://linkedin.com/in/guilherme-visconi-96101b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme visconi" height="30" width="40" /></a>
+</p> 
 
 ---
 
 ✨ Sempre aberto a trocar experiências, aprender e colaborar em novos projetos!
 
-
-- <a href="https://linkedin.com/in/guilherme-visconi-96101b246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme visconi" height="30" width="40" /></a>
-</p>
